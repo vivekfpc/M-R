@@ -1,0 +1,211 @@
+@media(min-width:1600px){
+	.bottom-element-left{
+	position: absolute;
+	width: 60%;
+	left: 0;
+	    bottom: -412px;
+}
+.bottom-element-right{
+	position: absolute;
+	width: 60%;
+	right: 0;
+	    bottom: -412px;
+}
+}
+@media(max-width:1200px){
+	.banner-text p {
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 15%;
+}
+.wedding-detail-top h5 {
+    font-size: 24px;
+    padding-top: 17px;
+}
+.wedding-detail-top h4 {
+    font-size: 27px;
+    padding-top: 10px;
+}
+.bottom-element-left{
+	position: absolute;
+	width: 60%;
+	left: 0;
+	    bottom: -267px;
+}
+.bottom-element-right{
+	position: absolute;
+	width: 60%;
+	right: 0;
+	    bottom: -267px;
+}
+.bottom p {
+    text-align: center;
+    bottom: 0;
+    color: white;
+    font-size: 14px;
+}
+}
+@media(max-width:992px){
+
+.bottom {
+    margin-top: 30px;
+}
+.bottom-element-left{
+	position: absolute;
+	width: 60%;
+	left: 0;
+	    bottom: -279px;
+}
+.bottom-element-right{
+	position: absolute;
+	width: 60%;
+	right: 0;
+	    bottom: -279px;
+}
+}
+@media(max-width:768px){
+	.bottom-element-left{
+	position: absolute;
+	width: 60%;
+	left: 0;
+	    bottom: -224px;
+}
+.bottom-element-right{
+	position: absolute;
+	width: 60%;
+	right: 0;
+	    bottom: -224px;
+}
+}
+@media(max-width:425px){
+	.top-flower-right {
+    position: absolute;
+    width: 22%;
+    right: 0;
+    margin-right: -1%;
+    margin-top: -2%;
+}
+.top-flower-left {
+    position: absolute;
+    width: 22%;
+    left: 0;
+    margin-left: -1%;
+    margin-top: -2%;
+}
+.logo {
+    width: 27%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 6%;
+}
+
+.flower-divided {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 7%;
+}
+.flower-divided-bottom {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 12%;
+}
+	.banner-text p {
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    line-height: 23px;
+    margin-top: 15%;
+}
+.wedding-detail-top h5 {
+    font-size: 20px;
+    padding-top: 10px;
+}
+.wedding-detail-top h4 {
+    font-size: 21px;
+    padding-top: 8px;
+}
+.bottom-text h5 {
+    font-size: 22px;
+    padding-top: 17px;
+}
+.bottom-text p {
+    font-size: 15px;
+    letter-spacing: 0px;
+    padding-top: 5px;
+}
+.accommodations h6 {
+    font-size: 14px;
+    line-height: 26px;
+    padding-top: 12px;
+}
+.travel-info .details p {
+    line-height: 21px;
+    font-size: 14px;
+
+}
+.rsvp p {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+    line-height: 25px;
+}
+
+
+.bottom p {
+    text-align: center;
+    bottom: 0;
+    color: white;
+    font-size: 11px;
+}
+.bottom-element-left{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	    bottom: -164px;
+}
+.bottom-element-right{
+	position: absolute;
+	width: 100%;
+	right: 0;
+	    bottom: -164px;
+}
+}
+
+@media(max-width:375px){
+	.bottom-element-left{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	    bottom: -147px;
+}
+.bottom-element-right{
+	position: absolute;
+	width: 100%;
+	right: 0;
+	    bottom: -147px;
+}
+}
+
+@media(max-width:320px){
+	.bottom-element-left{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	    bottom: -144px;
+}
+.bottom-element-right{
+	position: absolute;
+	width: 100%;
+	right: 0;
+	    bottom: -144px;
+}
+}
+
